@@ -1,4 +1,4 @@
-### I am currently working on professionally:
+### I am currently working on (professionally):
 - Developing games used to test how people respond to various situations, like Flooding and Swine Flu, with the University of Vermont
 - A 3D Combat Arcade Racing Game called Dead Pedal @ Faycrest Studios
 ### In my spare time I work on:
