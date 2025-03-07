@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am currently working on a 3D Combat Arcade Racing Game called Dead Pedal @ Faycrest Studios and developing games for research purposes with the University of Vermont. In my sparre time I work on the Live Service trading card game, Tykhe, as a content designer and develope a clone of Asteroids which will be expanded with Local Multiplayer and Hack and Slash elements
 
 <!--
 **IanMelvin/IanMelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
