@@ -1,8 +1,8 @@
 ### I am currently working on (professionally):
 - Developing games used to test how people respond to various situations, like Flooding and Swine Flu, with the Social-Ecological Gaming and Simulation (SEGS) Lab
-- A 3D Combat Arcade Racing Game called Dead Pedal @ Faycrest Studios
+- A team based combat racing game called Deadpedal @ Faycrest Studios
 ### In my spare time I work on:
-- The Live Service trading card game, Tykhe, as a content designer
+- A collectible card game packaged inside of a Discord bot, Tykhe, as a content designer
 - Developing a clone of Asteroids which will be expanded with Local Multiplayer and Hack and Slash elements
 
 <!--
